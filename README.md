@@ -1,5 +1,5 @@
 # drums_in_a_solar_system
-solar system made using processing connected to pure data patches using oscP5 and NetP5. 
+Solar system made using processing connected to pure data patches using oscP5 and NetP5. 
 The drums uses samples that are in the folder ***Hhopkit***. There is a bonus song ***gangnam style*** that once played in 
 pure data and the line 55 uncommented ( ***stars.makeStars()*** ) in solar_sytem's method draw(), the the stars react to the
 frequency of the sound. 
